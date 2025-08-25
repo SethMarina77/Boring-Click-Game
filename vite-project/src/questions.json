@@ -1,0 +1,5 @@
+[
+   { "id": 1, "question": "Is it going to rain today?" },
+   { "id": 2, "question": "Do you like programming?" },
+   { "id": 3, "question": "Is React your favorite library?" }
+]
